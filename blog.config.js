@@ -89,7 +89,7 @@ const BLOG = {
   FIREWORKS_COLOR: ['255, 20, 97', '24, 255, 146', '90, 135, 255', '251, 243, 140'],
 
   // 樱花飘落特效
-  SAKURA: process.env.NEXT_PUBLIC_SAKURA || true, // 开关
+  SAKURA: process.env.NEXT_PUBLIC_SAKURA || false, // 开关
 
   // 漂浮线段特效
   NEST: process.env.NEXT_PUBLIC_NEST || true, // 开关
@@ -118,8 +118,8 @@ const BLOG = {
     {
       name: '风を共に舞う気持ち',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/song/media/outer/url?id=731419.mp3',
-      cover: 'https://p2.music.126.net/kn6ugISTonvqJh3LHLaPtQ==/599233837187278.jpg'
+      url: 'https://music.163.com/song/media/outer/url?id=1891835283.mp3',
+      cover: 'https://blob:chrome-extension://dbjbempljhcmhlfpfacalomonjpalpko/b498cb70-f367-4add-9840-3853aaeae1b1'
     },
     {
       name: '王都グランセル',
