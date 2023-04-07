@@ -119,7 +119,7 @@ const BLOG = {
       name: 'Dancing with my phone',
       artist: 'HYBS',
       url: 'https://music.163.com/song/media/outer/url?id=1891835283.mp3',
-      cover: 'https://https://i.scdn.co/image/ab67616d0000b273dfcf6d72e22bd972dfdcad84'
+      cover: 'https://i.postimg.cc/7LYJG0SV/ab67616d0000b273dfcf6d72e22bd972dfdcad84.jpg'
     },
     {
       name: '王都グランセル',
