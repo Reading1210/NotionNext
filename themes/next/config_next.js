@@ -14,8 +14,8 @@ const CONFIG_NEXT = {
   // 右侧组件
   RIGHT_BAR: true, // 是否显示右侧栏
   RIGHT_LATEST_POSTS: true, // 右侧栏最新文章
-  RIGHT_CATEGORY_LIST: true, // 右侧边栏文章分类列表
-  RIGHT_TAG_LIST: true, // 右侧边栏标签分类列表
+  RIGHT_CATEGORY_LIST: false, // 右侧边栏文章分类列表
+  RIGHT_TAG_LIST: false, // 右侧边栏标签分类列表
   RIGHT_AD: false, // 右侧广告
 
   // 菜单
@@ -23,7 +23,7 @@ const CONFIG_NEXT = {
   MENU_CATEGORY: true, // 显示分类
   MENU_TAG: true, // 显示标签
   MENU_ARCHIVE: true, // 显示归档
-  MENU_SEARCH: true, // 显示搜索
+  MENU_SEARCH: false, // 显示搜索
 
   WIDGET_TO_TOP: true, // 是否显示回顶
   WIDGET_TO_BOTTOM: false, // 显示回底
