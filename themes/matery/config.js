@@ -25,14 +25,14 @@ const CONFIG = {
   MATERY_POST_LIST_PREVIEW: true, // 读取文章预览
 
   MATERY_ARTICLE_ADJACENT: true, // 显示上一篇下一篇文章推荐
-  MATERY_ARTICLE_COPYRIGHT: true, // 显示文章版权声明
+  MATERY_ARTICLE_COPYRIGHT: false, // 显示文章版权声明
   MATERY_ARTICLE_NOT_BY_AI: false, // 显示非AI写作
-  MATERY_ARTICLE_RECOMMEND: true, // 文章关联推荐
+  MATERY_ARTICLE_RECOMMEND: false, // 文章关联推荐
 
   MATERY_WIDGET_LATEST_POSTS: true, // 显示最新文章卡
   MATERY_WIDGET_ANALYTICS: false, // 显示统计卡
   MATERY_WIDGET_TO_TOP: true,
-  MATERY_WIDGET_TO_COMMENT: true, // 跳到评论区
+  MATERY_WIDGET_TO_COMMENT: false, // 跳到评论区
   WIDGET_DARK_MODE: true, // 夜间模式
   MATERY_WIDGET_TOC: true // 移动端悬浮目录
 }
