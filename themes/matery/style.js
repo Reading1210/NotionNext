@@ -35,7 +35,7 @@ const Style = () => {
 
       /* 导航栏签颜色 */
 #sticky-nav.bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
 
 /* 夜间模式导航栏签颜色 */
@@ -46,55 +46,49 @@ const Style = () => {
 
 /* 首页开始阅读按钮 */
 .glassmorphism.w-40.z-40 {
-    background-color: #9c26b0;
+    background-color: #725e82;
     border: none;
 }
 
 /* 标签颜色 */
 a.cursor-pointer.bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
 
 /* 移动端侧边栏 */
 #side-bar>.bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
 
 /* 移动端侧边栏菜单 */
 nav div:hover,li:hover {
-    background-color: #9c26b0!important;
+    background-color: #725e82!important;
 }
 
 /* 悬浮菜单 */
 .right-2 .bg-indigo-700 {
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
 
 /* 目录进度条 */
 .h-4.bg-indigo-400 {
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
 
 /* 目录文字高亮 */
 nav .text-green-500{
-    color: #9c26b0;
+    color: #725e82;
 }
 
 /* 网站页脚 */ 
 footer.bg-indigo-700{
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
 
 /* 翻页按钮 */
 button.bg-indigo-700{
-    background-color: #9c26b0;
+    background-color: #725e82;
 }
-
-/* 文章页隐藏发布时间 */
-#article-wrapper > div.wow.fadeInUp.px-10 > section > div.flex.flex-wrap.gap-3.mt-5.text-sm > a {
-  display: none;
-}
-
 
 /* 文章页隐藏发布时间 */
 #article-wrapper > div.wow.fadeInUp.px-10 > section > div.flex.flex-wrap.gap-3.mt-5.text-sm > a {
