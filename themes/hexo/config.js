@@ -10,14 +10,14 @@ const CONFIG = {
   // 已知未修复bug, 在移动端开启true后会加载不出图片； 暂时建议设置为false。
   HEXO_HOME_NAV_BACKGROUND_IMG_FIXED: false, // 首页背景图滚动时是否固定，true 则滚动时图片不懂动； false则随鼠标滚动 ;
   // 是否显示开始阅读按钮
-  HEXO_SHOW_START_READING: true,
+  HEXO_SHOW_START_READING: false,
 
   // 菜单配置
   HEXO_MENU_INDEX: true, // 显示首页
-  HEXO_MENU_CATEGORY: true, // 显示分类
-  HEXO_MENU_TAG: true, // 显示标签
-  HEXO_MENU_ARCHIVE: true, // 显示归档
-  HEXO_MENU_SEARCH: true, // 显示搜索
+  HEXO_MENU_CATEGORY: false, // 显示分类
+  HEXO_MENU_TAG: false, // 显示标签
+  HEXO_MENU_ARCHIVE: false, // 显示归档
+  HEXO_MENU_SEARCH: false, // 显示搜索
   HEXO_MENU_RANDOM: false, // 显示随机跳转按钮
 
   HEXO_POST_LIST_COVER: true, // 列表显示文章封面
